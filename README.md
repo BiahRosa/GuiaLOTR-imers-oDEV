@@ -40,4 +40,4 @@ Agradecemos a J.R.R. Tolkien por criar este universo incrível e a todos os fãs
 
 **#Osenhordosaneis #tolkien #javascript #html #css #webdev #nerd**
 
-**![image](https://br.pinterest.com/pin/14144186324334753/)**
+**![image](https://i.pinimg.com/564x/ae/99/6c/ae996c31736d90a238f7ba785a4e1589.jpg)**
