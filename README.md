@@ -38,6 +38,6 @@ Agradecemos a J.R.R. Tolkien por criar este universo incrível e a todos os fãs
 
 **Vamos juntos explorar a Terra Média!** 
 
-**#Osenhordosaneis #tolkien #javascript #html #css #webdev #nerd**
+**#Osenhordosaneis #tolkien #javascript #html #css #webdev #nerd #LOTR**
 
 **![image](https://i.pinimg.com/564x/ae/99/6c/ae996c31736d90a238f7ba785a4e1589.jpg)**
