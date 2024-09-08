@@ -22,14 +22,14 @@ let dados = [ //lista, começa do zero
     },
     {
         titulo: "Legolas",
-        descrição: "Um elfo hábil com arco e flecha, companheiro leal da Frodo.",
+        descrição: "Um elfo hábil com arco e flecha, companheiro leal da Frodo.Sua amizade com Gimli, o anão, é um dos aspectos mais memoráveis da história, demonstrando a união entre raças diferentes em um objetivo comum.",
         linkYoutube: "https://youtu.be/ZpxvT8ReSCw?si=lu8KFhKpe9X5mNcN",
         linkInfo: "https://pt.wikipedia.org/wiki/Legolas",
         tags:""
     },
     {
         titulo: "Gimli",
-        descrição: "Um anão guerreiro, companheiro leal de Frodo.",
+        descrição: "Um anão guerreiro, companheiro leal de Frodo. Ele desempenha um papel crucial nas batalhas contra as forças de Sauron, demonstrando sua coragem e valentia.",
         linkYoutube: "https://youtu.be/CIdUMyyvf4w?si=jNQdJxpFmSlMMOWl",
         linkInfo: "https://pt.wikipedia.org/wiki/Gimli",
         tags:""
@@ -43,28 +43,28 @@ let dados = [ //lista, começa do zero
     },
     {
         titulo: "Aragorn",
-        descrição: "Aragorn é o herdeiro do trono de Gondor, conhecido como o Rei Elessar. Ele é um guerreiro habilidoso e um descendente de Isildur.",
+        descrição: "Aragorn é o herdeiro do trono de Gondor, conhecido como o Rei Elessar. Ele é um guerreiro habilidoso e um descendente de Isildur. Sua jornada é uma história de redenção, de um homem destinado a cumprir uma profecia e restaurar a paz à Terra Média.",
         linkYoutube: "https://youtu.be/oFwzvj41NgA?si=EI4a7l2v9rKzaW9l",
         linkInfo: "https://pt.wikipedia.org/wiki/Aragorn",
         tags:""
     },
     {
         titulo: "Os Nazgûl",
-        descrição: "Os Nazgûl são os servos de Sauron, antigos reis númenorianos corrompidos pelo Um Anel.",
+        descrição: "Os Nazgûl são os servos de Sauron, antigos reis númenorianos corrompidos pelo Um Anel e transformados em espectros a serviço do mal.",
         linkYoutube: "hhttps://youtu.be/bWt32IycBvA?si=yoWM--JCcuDt9VpB",
         linkInfo: "https://pt.wikipedia.org/wiki/Nazgûl",
         tags:""
     },
     {
         titulo: "Sauron, o Senhor das Trevas",
-        descrição: "O principal antagonista da história, um poderoso ser de poder corrupto.",
+        descrição: "O principal antagonista da história, um poderoso ser de poder corrupto. Sua figura imponente e a ameaça que representa são elementos centrais da saga de Tolkien.",
         linkYoutube: "https://youtu.be/vAFP3ATvl6s?si=T84w72RoYkLdsK-b",
         linkInfo: "https://pt.wikipedia.org/wiki/Sauron",
         tags:""
     },
     {
         titulo: "Smeagol/Gollum",
-        descrição: "Uma criatura corrompida pelo Um Anel, anteriormente um hobbit.",
+        descrição: "Uma criatura corrompida pelo Um Anel, anteriormente um hobbit. Essa corrupção transformou Sméagol em Gollum, uma criatura deformada e obsessiva, obcecada por seu precioso anel.",
         linkYoutube: "https://youtu.be/FlNmLvdeglM?si=RNakm4oHL9j5rH7N",
         linkInfo: "https://pt.wikipedia.org/wiki/Gollum",
         tags:""
